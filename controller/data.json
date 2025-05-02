@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Iphone 14 Pro Max",
+    "jumlahBarang": 5,
+    "terjual": 3,
+    "sisaBarang": 2,
+    "updateAt": "2023-10-01",
+    "harga": 20000000
+  },
+  {
+    "id": 2,
+    "namaBarang": "Samsung Galaxy S23 Ultra",
+    "jumlahBarang": 10,
+    "terjual": 7,
+    "sisaBarang": 3,
+    "updateAt": "2023-10-02",
+    "harga": 18000000
+  },
+  {
+    "id": 3,
+    "namaBarang": "Xiaomi 13 Pro",
+    "jumlahBarang": 8,
+    "terjual": 5,
+    "sisaBarang": 3,
+    "updateAt": "2023-10-03",
+    "harga": 15000000
+  },
+  {
+    "id": 4,
+    "namaBarang": "Oppo Find X5 Pro",
+    "jumlahBarang": 6,
+    "terjual": 2,
+    "sisaBarang": 4,
+    "updateAt": "2023-10-04",
+    "harga": 12000000
+  },
+  {
+    "id": 5,
+    "namaBarang": "Vivo X90 Pro",
+    "jumlahBarang": 7,
+    "terjual": 4,
+    "sisaBarang": 3,
+    "updateAt": "2023-10-05",
+    "harga": 13000000
+  }
+]
